@@ -1,0 +1,17 @@
+Python Libraries Installed & Used
+✅ pandas – For handling datasets, preprocessing, and saving results. ✅ numpy – For numerical operations and efficient calculations. ✅ seaborn – For visualizing survival trends, feature impact, and correlations. ✅ matplotlib – To generate bar plots and feature importance graphs. ✅ sklearn (scikit-learn) – Used for:
+
+LabelEncoder (encoding categorical variables)
+
+cross_val_score (validating models to prevent overfitting)
+
+LogisticRegression, DecisionTreeClassifier, RandomForestClassifier (various ML models)
+
+accuracy_score (to evaluate model performance) ✅ xgboost – For training an advanced gradient-boosted model. ✅ os – To handle file saving and ensure the results folder exists.
+
+📌 Installation Commands (if needed)
+If any libraries are missing, install them using:
+
+bash
+pip install pandas numpy seaborn matplotlib scikit-learn xgboost
+This will ensure everything runs smoothly! 🚢🔥

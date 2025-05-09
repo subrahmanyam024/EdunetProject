@@ -1,0 +1,10 @@
+🔹 Required Libraries & Their Uses
+✔ TensorFlow – Used for deep learning (model building, training, and prediction). ✔ NumPy – Helps with array manipulation, normalization, and reshaping data. ✔ Matplotlib – Used for visualizing training accuracy and loss curves. ✔ PIL (Pillow) – Processes images for digit recognition. ✔ OpenCV (cv2) – Optional, but useful for advanced image preprocessing. ✔ Flask – Enables deployment as a web application. ✔ Flask-Ngrok – Makes your Flask app publicly accessible in Colab.
+
+🔹 Installation Commands (Run in Colab)
+Run this in a single Colab cell to install everything at once:
+
+python
+!pip install tensorflow numpy matplotlib pillow opencv-python flask flask-ngrok
+
+🚀 Once installed, your project will be fully setup for training, image processing, and deployment!
